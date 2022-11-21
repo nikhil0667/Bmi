@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bmi Fiteness</string>
+    <string name="Title">BMI</string>
+    <string name="enter_your_weight">Enter your Weight</string>
+    <string name="enter_your_height_in_ft">Enter your Height(in Ft)</string>
+    <string name="enter_your_height_in_inch">Enter your Height(in Inch)</string>
+    <string name="calculate">Calculate</string>
+</resources>
